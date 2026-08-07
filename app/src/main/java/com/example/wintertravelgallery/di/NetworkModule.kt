@@ -9,3 +9,4 @@ import dagger.hilt.components.SingletonComponent
 object NetworkModule{
 
 }
+
